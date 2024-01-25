@@ -2,7 +2,7 @@
 
 Welcome to the main page of my code repository. Below are some useful links:
 
-- [Git Wiki Document](link/to/your/markdown/file/README.md): This is the Git Wiki document linked with the code.
+- [Git Wiki Document](https://github.com/uc-mridul/ucmridul-demo.wiki.git): This is the Git Wiki document linked with the code.
 - [Documentation](link/to/your/additional/documentation): Additional documentation for the code.
 - [Contributing Guidelines](link/to/your/contributing/guidelines): Guidelines for contributing to the code repository.
 
